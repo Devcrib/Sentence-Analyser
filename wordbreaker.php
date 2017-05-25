@@ -1,7 +1,6 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: bane
+ * Created by Dotun Longe.
  * Date: 28/04/2017
  * Time: 5:41 PM
  */
